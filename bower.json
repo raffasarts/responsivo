@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-site",
+  "homepage": "https://github.com/raffasarts/responsivo",
+  "authors": [
+    "raffasarts <raffasarts@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
